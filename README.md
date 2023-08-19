@@ -1,4 +1,4 @@
-![image](https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/7e2afdf9-77c7-4e87-9448-fe7ce31275d4)- 
+![image](https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/7e2afdf9-77c7-4e87-9448-fe7ce31275d4)
 - 👋 Hi, I’m @nihilisticneuralnet
 - 👀 I’m interested in unraveling the mysteries of this thing called AI.
 - 🌱 I’m currently learning the art of finding meaninglessness in the most meaningful situations.
