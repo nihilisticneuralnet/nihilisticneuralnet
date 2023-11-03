@@ -1,6 +1,10 @@
-  # Hello human, I am a non-AI.
-  
-![image](https://github.com/nihilisticneuralnet/nihilisticneuralnet/blob/main/img.png)
+  # Hello human!
+
+### 👋Hi, I'm @nihilisticneuralnet.<br>
+### 🔭I'm interested in unraveling the mysteries of this thing called 🤖Al.<br>
+### 🌱I'm currently learning the art of finding meaninglessness in the most meaningful situations.<br>
+### 👨‍💻I'm looking to collaborate on a project that will keep me busy.<br>
+### 📞How to reach me? Just shout my username into the void and hope for a reply... or send a message to nihilisticneuralnet404[at]gmail[dot]com.
 
 <!---
 nihilisticneuralnet/nihilisticneuralnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
