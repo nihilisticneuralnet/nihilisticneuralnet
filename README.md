@@ -1,6 +1,6 @@
   # Hello human, I am a non-AI.
   
-![image](https://github.com/nihilisticneuralnet/nihilisticneuralnet/blob/main/image.png)
+![image](https://github.com/nihilisticneuralnet/nihilisticneuralnet/blob/main/img.png)
 
 <!---
 nihilisticneuralnet/nihilisticneuralnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
