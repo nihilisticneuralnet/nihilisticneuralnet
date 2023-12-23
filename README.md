@@ -1,4 +1,4 @@
-  # Hello human!
+  # Hello!
 
 * 👋Hi, I'm @nihilisticneuralnet.<br>
 * 🔭I'm interested in unraveling the mysteries of this thing called 🤖Al.<br>
