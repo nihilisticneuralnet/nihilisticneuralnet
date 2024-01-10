@@ -10,5 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/deb93d5f-1409-4b64-ba5c-9185f9c95566" alt="Image Description" width="100%">
+  <img src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0c26d59-3089-46b2-9515-7f56eeff4399" >
 </p>
+
+![.](https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/1ac33bd7-9d4d-4b6b-a170-65e5aadc363e)
