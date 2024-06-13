@@ -1,6 +1,6 @@
   # Hello!
 
-* 👋Hi, I'm @nihilisticneuralnet.<br>
+* 👋Hi, I'm parth.<br>
 * 🔭I'm interested in unraveling the mysteries of this thing called 🤖Al.<br>
 * 👨‍💻I'm looking to collaborate on a project that will keep me busy.<br>
 
