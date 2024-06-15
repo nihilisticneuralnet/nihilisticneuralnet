@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/e8ea632c-36d7-4991-9d2d-12fcd9758498" ></p>
+  <img src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/06f20358-8a8b-46af-9186-4ea787c10eca" ></p>
   
   # Hello!
 
@@ -30,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 ###
 
 
-
 ###
 ## Find me on
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR0YXh3Y2s3Z3NobTkydHloMTRpY3M4Y2dwYnB5a3ptcW5hYmdncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyclIRxMwlY40/giphy.gif"  />
@@ -46,18 +45,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.goodreads.com/nihilisticneuralnet" rel="noopener"><b>Goodreads</b></a><br>
   <a href="https://letterboxd.com/nihilisticnn404/" rel="noopener"><b>Letterboxd</b></a><br>
 </div>
-
-
 <br><br>
 
 ![.](https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/1ac33bd7-9d4d-4b6b-a170-65e5aadc363e)
-
-
 </div>
 
-###
-
 <br clear="both">
-
-
-###
