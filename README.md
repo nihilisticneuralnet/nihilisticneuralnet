@@ -36,16 +36,19 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="left">
-  <a href="https://nihilisticneuralnet.substack.com/" rel="noopener"><b>blogs</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nihilisticneuralnet404@gmail.com" rel="noopener"><b>email</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nihilisticneuralnet/" rel="noopener"><b>linkedin</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nihilisticneuralnet" rel="noopener"><b>github</b></a><br><br>
-  <a href="https://www.kaggle.com/nihilisticneuralnet" rel="noopener"><b>kaggle</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/nihilisticnn404" rel="noopener"><b>twitter</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.goodreads.com/nihilisticneuralnet" rel="noopener"><b>goodreads</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://letterboxd.com/nihilisticnn404/" rel="noopener"><b>letterboxd</b></a>
+  <a href="https://nihilisticneuralnet.substack.com/" rel="noopener"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Blog Badge"></a>
+  <a href="mailto:nihilisticneuralnet404@gmail.com" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"></a>
+  <a href="https://www.linkedin.com/in/nihilisticneuralnet/" rel="noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
+  <a href="https://github.com/nihilisticneuralnet" rel="noopener"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"></a><br>
+  <a href="https://www.kaggle.com/nihilisticneuralnet" rel="noopener"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"></a>
+  <a href="https://twitter.com/nihilisticnn404" rel="noopener"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"></a>
+  <a href="https://www.goodreads.com/nihilisticneuralnet" rel="noopener"><img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt="Goodreads Badge"></a>
+  <a href="https://letterboxd.com/nihilisticnn404/" rel="noopener"><img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Letterboxd Badge"></a>
 </div>
 <br><br>
+
+</div>
+
 
 ![.](https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/1ac33bd7-9d4d-4b6b-a170-65e5aadc363e)
 </div>
