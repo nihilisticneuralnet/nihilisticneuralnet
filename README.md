@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 # 🔍 Find me on
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN6NzNoZGU4aGltbm42MGF1dGVyM3k0cG82aGg0djVscmY2ang0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyclIRxMwlY40/giphy.gif"  />
+<img align="right" height="200" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
 
 
 <div align="left">
