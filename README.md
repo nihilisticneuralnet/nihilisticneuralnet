@@ -3,7 +3,7 @@
   
   # 🙋‍♂️ Hey Buddy!
 
-* 👋hi, i'm @nihilisticneuralnet <br>
+* 👋hi, i'm n̶̹̟̱̄ī̵̼̺̭͚͠h̶͙̗́̋i̴̼͖͓͐̀̒l̸̗̅̔͝í̵̛̱̟̮̆̄͜s̵̰̭̥̄t̶̪̼̋̍͛i̷͕̇̋c̸̗͙̃̿̔ņ̵̰̻̄ę̸̘̪̚u̵͕̤͔̿͆͝r̸͖̟̮͐̅̚͘ḁ̷̧̰̼͌͝l̷͔̖̰͂͂̄̆ņ̶͕̻̹̽̆̈e̸͖͐̈́t̸͉͍̽̎͝ <br>
 * 🔭i'm interested in unraveling the mysteries of this thing called 🤖Al.<br>
 * 👨‍💻i'm looking to collaborate on a project that will keep me busy.<br>
 
