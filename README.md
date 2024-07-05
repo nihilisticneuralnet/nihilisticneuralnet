@@ -3,7 +3,7 @@
   
   # 🙋‍♂️ Hey!!!
 
-* 👨‍💻wanna collaborate, [dm me](https://twitter.com/nihilisticnn404)<br>
+* 👨‍💻wanna collaborate, dme me on [twitter](https://twitter.com/nihilisticnn404)<br>
 
 
 <!---
