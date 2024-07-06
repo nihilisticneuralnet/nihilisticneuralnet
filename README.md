@@ -45,12 +45,15 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.goodreads.com/nihilisticneuralnet" rel="noopener"><img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt="Goodreads Badge"></a>
   <a href="https://letterboxd.com/nihilisticnn404/" rel="noopener"><img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Letterboxd Badge"></a>
 </div>
-<br><br>
+<br><br><br><br>
 
 </div>
 
 
+</div>
+
+###
+# ✍️ Blogs
 ![.](https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/1ac33bd7-9d4d-4b6b-a170-65e5aadc363e)
-</div>
 
 <br clear="both">
