@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihilisticneuralnet&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" height="150"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nihilisticneuralnet&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" height="150"  /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihilisticneuralnet&theme=highcontrast&hide_border=false" height="150" alt="streak graph"  />
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=nihilisticneuralnet" height="200" alt=" graph"  /> -->
 </div>
