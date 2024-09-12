@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <a href="https://nihilisticneuralnet.substack.com/" rel="noopener"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Blog Badge"></a>
 <!--   <a href="mailto:nihilisticneuralnet404@gmail.com" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"></a> -->
-  <a href="https://www.linkedin.com/in/nihilisticneuralnet/" rel="noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
+<!--   <a href="https://www.linkedin.com/in/nihilisticneuralnet/" rel="noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a> -->
   <a href="https://github.com/nihilisticneuralnet" rel="noopener"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"></a><br>
   <a href="https://www.kaggle.com/nihilisticneuralnet" rel="noopener"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"></a>
   <a href="https://twitter.com/nihilisticnn404" rel="noopener"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"></a>
