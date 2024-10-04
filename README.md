@@ -10,7 +10,7 @@
 nihilisticneuralnet/nihilisticneuralnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
---->
+
 <table>
   <tr>
     <td style="border: none;">
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
-
+--->
 
 
 # 💻 Tech Stack:
