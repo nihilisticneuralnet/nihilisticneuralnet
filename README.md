@@ -9,10 +9,21 @@
 <!---
 nihilisticneuralnet/nihilisticneuralnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
-
-
-
+<table>
+  <tr>
+    <td style="border: none;">
+      <img src="https://github.com/user-attachments/assets/b93b0376-e6e7-4cef-90f7-58ffff36df70" alt="First Image" width="600" />
+    </td>
+    
+  <td style="border: none;">
+      <img src="https://github.com/user-attachments/assets/1117d80c-c106-4ff2-8dfc-a0f745750b45" alt="Second Image" width="150" /><br/>
+      <img src="https://github.com/user-attachments/assets/2bbc04cb-5d0d-4920-aab2-f5b8e144de13" alt="Third Image" width="150" /><br/>
+      <img src="https://github.com/user-attachments/assets/655af220-f04d-433a-b85a-a65940278b2b" alt="Fourth Image" width="150" />
+    </td>
+  </tr>
+</table>
 
 
 
