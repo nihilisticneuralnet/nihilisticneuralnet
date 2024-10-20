@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgflip.com/97bfq8.jpg" ></p>
-
 # 🙋‍♂️ Hey!!!
 
 * 👨‍💻wanna collaborate, dm me on [twitter](https://twitter.com/nihilisticnn404)<br>
@@ -38,6 +35,11 @@ You can click the Preview link to take a look at your changes.
 ###
 
 # 🧑‍💻 Projects
+<img align="right" height="200" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
+
+-
+-
+-
 -
 -
 ###
@@ -56,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 # 🔍 Find me on
-<img align="right" height="200" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
+<img align="right" height="200" src="https://i.imgflip.com/97bfq8.jpg"  />
 
 
 <div align="left">
