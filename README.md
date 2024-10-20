@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/06f20358-8a8b-46af-9186-4ea787c10eca" ></p>
-  
-  # 🙋‍♂️ Hey!!!
+  <img src="https://i.imgflip.com/97bfq8.jpg" ></p>
+
+# 🙋‍♂️ Hey!!!
 
 * 👨‍💻wanna collaborate, dm me on [twitter](https://twitter.com/nihilisticnn404)<br>
+
+<p align="center">
+  <img src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/06f20358-8a8b-46af-9186-4ea787c10eca" ></p>
+  
 
 
 <!---
