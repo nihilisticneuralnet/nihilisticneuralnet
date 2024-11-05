@@ -34,8 +34,10 @@
 - **Ranked 453** out of 4436 participants in *Optiver: Trading at the Close* **(Top 10%)**
 ---
 ###
+
+<img align="right" height="200" src="https://i.imgflip.com/97bfq8.jpg"  />
+
 ### 📲 Let's connect
-<img align="right" height="250" src="https://i.imgflip.com/97bfq8.jpg"  />
 
 - 📫 How to reach me: nihilisticneuralnet404[at]gmail[dot]com
 - 📝 Read my blogs on [Substack](https://nihilisticneuralnet.substack.com/)
