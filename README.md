@@ -12,21 +12,22 @@
 ###
 ###
 
-# 🧑‍💻 Projects
-<img align="right" height="200" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
+### 🧑‍💻 Projects
+<img align="right" height="175" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
 
-- [RoadWatch: Smart Vehicle Detection & Speed Monitoring](https://github.com/nihilisticneuralnet/RoadWatch)
-- [Code da Vinci: Image Reconstruction using Genetic Algorithm](https://github.com/nihilisticneuralnet/Code-da-Vinci)
-- [SarvamScholar: Course Creation Co-Pilot](https://github.com/nihilisticneuralnet/SarvamScholar)
-- [Shono: Bengali Speech Recognition](https://github.com/nihilisticneuralnet/Shono)
-- [Neurolyze: Harmful Brain Activity Classification](https://github.com/nihilisticneuralnet/Neurolyze)
-- [FireCast: Wildfire Spread Prediction](https://github.com/nihilisticneuralnet/FireCast)
-  
+- **RoadWatch**: Smart Vehicle Detection & Speed Monitoring
+- **Code da Vinci**: Image Reconstruction using Genetic Algorithm
+- **SarvamScholar**: Course Creation Co-Pilot
+- **Shono**: Bengali Speech Recognition
+- **Neurolyze**: Harmful Brain Activity Classification
+- **FireCast**: Wildfire Spread Prediction
+
+---
 ###
-# ✍️ Blogs
-- [Beyond Flesh: Mind Uploading's Potential, Pitfalls, and Ethical Frontiers](https://nihilisticneuralnet.substack.com/p/beyond-flesh-mind-uploadings-potential)         
-- [AI or AI-n't Depressed? Exploring AI's Emotional Spectrum](https://nihilisticneuralnet.substack.com/p/ai-or-ai-nt-depressed-exploring-ais)
-
+### ✍️ Blogs
+- Beyond Flesh: Mind Uploading's Potential, Pitfalls, and Ethical Frontiers       
+- AI or AI-n't Depressed? Exploring AI's Emotional Spectrum
+---
 ###
 # 🔍 Find me on
 <img align="right" height="200" src="https://i.imgflip.com/97bfq8.jpg"  />
