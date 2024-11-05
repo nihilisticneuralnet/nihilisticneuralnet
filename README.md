@@ -15,7 +15,7 @@
 # 🧑‍💻 Projects
 <img align="right" height="200" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
 
-- [RoadWatch: Smart Vehicle Detection & Speed Monitoring](\href{https://github.com/nihilisticneuralnet/RoadWatch)
+- [RoadWatch: Smart Vehicle Detection & Speed Monitoring](https://github.com/nihilisticneuralnet/RoadWatch)
 - [Code da Vinci: Image Reconstruction using Genetic Algorithm](https://github.com/nihilisticneuralnet/Code-da-Vinci)
 - [SarvamScholar: Course Creation Co-Pilot](https://github.com/nihilisticneuralnet/SarvamScholar)
 - [Shono: Bengali Speech Recognition](https://github.com/nihilisticneuralnet/Shono)
