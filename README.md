@@ -33,7 +33,7 @@
 ---
 ###
 ### 📲 Let's connect
-<img align="right" height="200" src="https://i.imgflip.com/97bfq8.jpg"  />
+<img align="right" height="250" src="https://i.imgflip.com/97bfq8.jpg"  />
 
 - 📫 How to reach me: nihilisticneuralnet404[at]gmail[dot]com
 - 📝 Read my blogs on [Substack](https://nihilisticneuralnet.substack.com/)
@@ -41,7 +41,7 @@
 - 🐦 Follow me on [Twitter](https://twitter.com/nihilisticnn404) for insights and memes
 - 🎥 Discover my movie picks on [Letterboxd](https://letterboxd.com/nihilisticnn404/)
 - 📚 Check out the books I’ve read on [Goodreads](https://www.goodreads.com/nihilisticneuralnet)
-- 💻 Explore my projects on GitHub
+- 💻 Explore my projects on [GitHub](https://github.com/nihilisticneuralnet/)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nihilisticneuralnet/)
 
 ###
