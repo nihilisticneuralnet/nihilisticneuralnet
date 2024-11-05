@@ -42,7 +42,7 @@
 - 🎥 Discover my movie picks on [Letterboxd](https://letterboxd.com/nihilisticnn404/)
 - 📚 Check out the books I’ve read on [Goodreads](https://www.goodreads.com/nihilisticneuralnet)
 - 💻 Explore my projects on GitHub
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nihilisticneuralnet/) (ps: i hate this platform)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nihilisticneuralnet/)
 
 ###
 ![.](https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/1ac33bd7-9d4d-4b6b-a170-65e5aadc363e)
