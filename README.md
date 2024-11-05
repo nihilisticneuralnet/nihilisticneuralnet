@@ -7,7 +7,7 @@
 ---
 ###
 ### 🧑‍💻 Projects
-<img align="right" height="170" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
+<img align="right" height="180" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
 
 - **RoadWatch**: Smart Vehicle Detection & Speed Monitoring
 - **Code da Vinci**: Image Reconstruction using Genetic Algorithm
@@ -15,7 +15,7 @@
 - **Shono**: Bengali Speech Recognition
 - **Neurolyze**: Harmful Brain Activity Classification
 - **FireCast**: Wildfire Spread Prediction
-
+<br>
 
   
 ---
