@@ -4,28 +4,6 @@
 
 <p align="center">
   <img src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/06f20358-8a8b-46af-9186-4ea787c10eca" ></p>
-  
-
-
-<!---
-nihilisticneuralnet/nihilisticneuralnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-<table>
-  <tr>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/b93b0376-e6e7-4cef-90f7-58ffff36df70" alt="First Image" width="720" />
-    </td>
-    
-  <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/1117d80c-c106-4ff2-8dfc-a0f745750b45" alt="Second Image" width="220" /><br/>
-      <img src="https://github.com/user-attachments/assets/2bbc04cb-5d0d-4920-aab2-f5b8e144de13" alt="Third Image" width="220" /><br/>
-      <img src="https://github.com/user-attachments/assets/655af220-f04d-433a-b85a-a65940278b2b" alt="Fourth Image" width="220" />
-    </td>
-  </tr>
-</table>
---->
 
 
 # 💻 Tech Stack:
@@ -37,24 +15,17 @@ You can click the Preview link to take a look at your changes.
 # 🧑‍💻 Projects
 <img align="right" height="200" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
 
--
--
--
--
--
+- [RoadWatch: Smart Vehicle Detection & Speed Monitoring](\href{https://github.com/nihilisticneuralnet/RoadWatch)
+- [Code da Vinci: Image Reconstruction using Genetic Algorithm](https://github.com/nihilisticneuralnet/Code-da-Vinci)
+- [SarvamScholar: Course Creation Co-Pilot](https://github.com/nihilisticneuralnet/SarvamScholar)
+- [Shono: Bengali Speech Recognition](https://github.com/nihilisticneuralnet/Shono)
+- [Neurolyze: Harmful Brain Activity Classification](https://github.com/nihilisticneuralnet/Neurolyze)
+- [FireCast: Wildfire Spread Prediction](https://github.com/nihilisticneuralnet/FireCast)
+  
 ###
 # ✍️ Blogs
--
--
-
-###
-# 📊 GitHub Stats:
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=nihilisticneuralnet&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" height="150"  /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihilisticneuralnet&theme=highcontrast&hide_border=false" height="150" alt="streak graph"  />
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=nihilisticneuralnet" height="200" alt=" graph"  /> -->
-</div>
+- [Beyond Flesh: Mind Uploading's Potential, Pitfalls, and Ethical Frontiers](https://nihilisticneuralnet.substack.com/p/beyond-flesh-mind-uploadings-potential)         
+- [AI or AI-n't Depressed? Exploring AI's Emotional Spectrum](https://nihilisticneuralnet.substack.com/p/ai-or-ai-nt-depressed-exploring-ais)
 
 ###
 # 🔍 Find me on
