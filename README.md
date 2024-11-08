@@ -17,6 +17,7 @@
 - **Shono**: Bengali Speech Recognition
 - **Neurolyze**: Harmful Brain Activity Classification
 - **FireCast**: Wildfire Spread Prediction
+- **ProtPredictor**: Protein Function Prediction
   
 ---
 ###
