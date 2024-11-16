@@ -13,8 +13,6 @@
 - **RoadWatch**: Smart Vehicle Detection & Speed Monitoring
 - **Code da Vinci**: Image Reconstruction using Genetic Algorithm
 - **SarvamScholar**: Course Creation Co-Pilot
-- **Shono**: Bengali Speech Recognition
-- **Neurolyze**: Harmful Brain Activity Classification
 - **FireCast**: Wildfire Spread Prediction
 - **ProtPredictor**: Protein Function Prediction
   
