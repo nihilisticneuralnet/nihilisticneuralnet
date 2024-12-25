@@ -13,8 +13,10 @@
 - **RoadWatch**: Smart Vehicle Detection & Speed Monitoring
 - **Code da Vinci**: Image Reconstruction using Genetic Algorithm
 - **SarvamScholar**: Course Creation Co-Pilot
-- **FireCast**: Wildfire Spread Prediction
-- **ProtPredictor**: Protein Function Prediction
+- **FireCast**: Wildfire Spread Prediction Model
+- **ProtPredictor**: Protein Function Prediction Model
+- **DocuQBot**: AI Conversational Assistant for Document Analysis
+
   
 &nbsp;
 &nbsp;
