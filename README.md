@@ -45,7 +45,7 @@
 - 📫 How to reach me: nihilisticneuralnet404[at]gmail[dot]com
 - 📝 Read my blogs on [Substack](https://nihilisticneuralnet.substack.com/)
 - 📊 See my ML competition achievements on [Kaggle](https://www.kaggle.com/nihilisticneuralnet)
-- 🐦 Follow me on [Twitter](https://twitter.com/nihilisticnn404) for insights and memes
+<!--- - 🐦 Follow me on [Twitter](https://twitter.com/nihilisticnn404) for insights and memes> -->
 - 🎥 Discover my movie picks on [Letterboxd](https://letterboxd.com/nihilisticnn404/)
 - 📚 Check out the books I’ve read on [Goodreads](https://www.goodreads.com/nihilisticneuralnet)
 - 💻 Explore my projects on [GitHub](https://github.com/nihilisticneuralnet/)
