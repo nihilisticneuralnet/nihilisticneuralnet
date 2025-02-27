@@ -10,12 +10,13 @@
 
 <img align="right" height="180" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
 
+- **AIk-na**: Marathi AI Voice Assistant
+- **Manya**: Multi Agent AI Manim Generator 
 - **RoadWatch**: Smart Vehicle Detection & Speed Monitoring
 - **Code da Vinci**: Image Reconstruction using Genetic Algorithm
 - **SarvamScholar**: Course Creation Co-Pilot
 - **FireCast**: Wildfire Spread Prediction Model
-- **ProtPredictor**: Protein Function Prediction Model
-- **DocuQBot**: AI Conversational Assistant for Document Analysis
+- **LigandNet**: Small Molecule-Protein Interactions Prediction Model 
 
   
 &nbsp;
