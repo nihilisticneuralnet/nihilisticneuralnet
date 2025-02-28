@@ -12,7 +12,7 @@
 
 - **AIk-na**: Marathi AI Voice Assistant
 - **Manya**: Multi Agent AI Manim Generator 
-- **RoadWatch**: Smart Vehicle Detection & Speed Monitoring
+- **Catch Me If You Scan**: Smart Vehicle Detection & Speed Monitoring
 - **Code da Vinci**: Image Reconstruction using Genetic Algorithm
 - **SarvamScholar**: Course Creation Co-Pilot
 - **FireCast**: Wildfire Spread Prediction Model
