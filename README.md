@@ -19,10 +19,7 @@
 
 ---
 ###
-### ✍️ Blogs
-- Beyond Flesh: Mind Uploading's Potential, Pitfalls, and Ethical Frontiers       
-- AI or AI-n't Depressed? Exploring AI's Emotional Spectrum
----
+
 ###
 ### 🌟 Achievements
 - **Competition Expert** at *Kaggle*
